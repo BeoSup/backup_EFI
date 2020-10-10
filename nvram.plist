@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EmuVariableUefiPresent</key>
+	<data>
+	WWVz
+	</data>
+	<key>SystemAudioVolume</key>
+	<data>
+	Pg==
+	</data>
+	<key>SystemAudioVolumeDB</key>
+	<data>
+	7g==
+	</data>
+	<key>backlight-level</key>
+	<data>
+	BAQ=
+	</data>
+	<key>bluetoothActiveControllerInfo</key>
+	<data>
+	KgqHgAAAAABgFPg0QbfARQ==
+	</data>
+	<key>fmm-computer-name</key>
+	<data>
+	QnVp4oCZcyBNYWNCb29rIFBybw==
+	</data>
+	<key>security-mode</key>
+	<string>none</string>
+</dict>
+</plist>
